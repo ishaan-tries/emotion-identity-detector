@@ -13,7 +13,7 @@ Group Members
 
 1. Kaab Gazdar  
 2. Ishaan Joshi  
-3. Keerthi Venkata  
+
 
 Requirements
 
